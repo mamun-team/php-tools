@@ -1,0 +1,19 @@
+{
+    "name": "mamun-team/php-tools",
+    "description": "Mamun PHP tools",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "umid soft",
+            "email": "gm.umidsoft@gmail.com"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "Mamun\\Library\\": "src/Mamun/Library/"
+        }
+    },
+    "minimum-stability": "stable",
+    "require": {}
+}
