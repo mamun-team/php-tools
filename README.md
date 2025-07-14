@@ -5,4 +5,4 @@
 ## 📦 Installation
 
 ```bash
-composer require mamun-team/php-library
+composer require mamun-team/php-tools
